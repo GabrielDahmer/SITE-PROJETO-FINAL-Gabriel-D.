@@ -1,0 +1,33 @@
+body {
+  font-family: font-family: "Roboto"; font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #ff0000;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
